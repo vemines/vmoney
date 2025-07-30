@@ -17,43 +17,46 @@ For the best experience on your mobile device, native applications are in develo
 
 ## 📸 Screenshots
 
-<!-- Replace these placeholder links with actual paths to your screenshots in the repository. -->
-<!-- For example: ![Dashboard](screenshots/dashboard.png?raw=true) -->
 <p align="center">
   <img src="sc/login.png" width="20%" alt="Login Screen">
-   
+    
   <img src="sc/transactions.png" width="20%" alt="Transactions Dashboard">
-    
+     
   <img src="sc/add_transaction.png" width="20%" alt="Add Transaction Form">
-   
+    
   <img src="sc/transaction_report.png" width="20%" alt="Financial Reports">
 </p>
 <p align="center">
   <img src="sc/schedules.png" width="20%" alt="Scheduled Transactions">
-   
-  <img src="sc/categories.png" width="20%" alt="Category Management">
-    
-  <img src="sc/search.png" width="20%" alt="Search & Filter">
-   
-  <img src="sc/convert_tab.png" width="20%" alt="Currency Converter">
-</p>
-<p align="center">
-  <img src="sc/historical_rates.png" width="20%" alt="Historical Rates Chart">
-   
-  <img src="sc/applock.png" width="20%" alt="App Lock Screen">
-    
-  <img src="sc/settings.png" width="20%" alt="Settings Page">
-   
-  <img src="sc/edit_profile.png" width="20%" alt="Edit Profile">
-</p>
-<p align="center">
+    
   <img src="sc/add_schedule.png" width="20%" alt="Add Schedule Form">
-   
-  <img src="sc/add_category.png" width="20%" alt="Add Category Dialog">
-    
-  <img src="sc/select_currencies.png" width="20%" alt="Currency Selection Dialog">
-   
-  <img src="sc/tip_caculator.png" width="20%" alt="Tip Calculator Modal">
+     
+  <img src="sc/categories.png" width="20%" alt="Category Management">
+    
+  <img src="sc/search_transaction.png" width="20%" alt="Search & Filter">
+</p>
+<p align="center">
+  <img src="sc/converter.png" width="20%" alt="Currency Converter">
+    
+  <img src="sc/currency_picker.png" width="20%" alt="Currency Picker Dialog">
+     
+  <img src="sc/history_rate.png" width="20%" alt="Historical Rates Chart">
+    
+  <img src="sc/tip_caculator.png" width="20%" alt="Tip Calculator Dialog">
+</p>
+<p align="center">
+  <img src="sc/onboarding.png" width="20%" alt="Onboarding Screens">
+    
+  <img src="sc/register.png" width="20%" alt="Register Screen">
+     
+  <img src="sc/setting_page.png" width="20%" alt="Settings Page">
+    
+  <img src="sc/applock.png" width="20%" alt="App Lock Screen">
+</p>
+<p align="center">
+  <img src="sc/edit_profile.png" width="20%" alt="Edit Profile Page">
+    
+  <img src="sc/edit_category.png" width="20%" alt="Edit Category Dialog">
 </p>
 
 ## ✨ Key Features
